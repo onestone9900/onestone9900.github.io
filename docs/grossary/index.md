@@ -34,3 +34,7 @@ nav_order: 4
 - Contents 콘텐츠
 - Docker 도커
 - Daemon 데몬
+- Lifecycle 생명주기
+- Minikube 미니큐브
+- Podman 파드맨
+- Private 프라이빗
