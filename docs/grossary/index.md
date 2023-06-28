@@ -28,7 +28,6 @@ nav_order: 4
 - Task 태스크
 - Archive Classifier 압축파일 구분자
 - classpath 클래스패스
-- Application 애플리케이션
 - Closure 클로저
 - Parameter 파라미터
 - Contents 콘텐츠
