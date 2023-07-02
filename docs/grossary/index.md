@@ -40,3 +40,4 @@ nav_order: 4
 - Spring Batch 스프링 배치
 - Javadoc 자바독
 - Elvis 엘비스
+- Actuator 액츄에이터
