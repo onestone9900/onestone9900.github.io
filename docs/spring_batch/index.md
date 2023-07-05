@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spring_batch
+title: SpringBatch
 nav_order: 3
 has_children: true
 ---
