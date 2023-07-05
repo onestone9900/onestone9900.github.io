@@ -1,5 +1,5 @@
 # Spring Boot Gradle Plugin Reference
-    - 진행중
+    - 완료
 # Dependency Management Plugin
 # Gradle
 # Spring Boot Actuator Web API Documentation
