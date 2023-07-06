@@ -42,3 +42,4 @@ nav_order: 4
 - Elvis 엘비스
 - Actuator 액츄에이터
 - Convention 컨벤션
+- Retry 재시도, (라이브러리명일 경우) 원문그대로 retry
