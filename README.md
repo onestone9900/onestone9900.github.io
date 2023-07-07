@@ -6,6 +6,9 @@
     - Build tools
         - Gradle
             - 진행중
+    - Compiler and plugins
+        - Compiler plugins
+        - Kotlin Symbol Processing API
 # Dependency Management Plugin
 # Gradle
 # Spring Boot Actuator Web API Documentation
