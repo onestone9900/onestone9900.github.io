@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 용어사전 및 규칙
-nav_order: 4
+nav_order: 5
 ---
 
 1. 제목, 부제목과 내용 사이 줄 바꿈을 넣지 않는다.
@@ -43,3 +43,6 @@ nav_order: 4
 - Actuator 액츄에이터
 - Convention 컨벤션
 - Retry 재시도, (라이브러리명일 경우) 원문그대로 retry
+- Checksum 체크섬
+- Trailer record 트레일러 레코드
+- Production(Prod) 프로덕션
