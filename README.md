@@ -1,13 +1,17 @@
 # Spring Boot Gradle Plugin Reference
-    - 완료
+# Spring Batch
+    - 진행중
+# Kotlin
+- Tools
+    - Build tools
+        - Gradle
+            - 진행중
 # Dependency Management Plugin
 # Gradle
 # Spring Boot Actuator Web API Documentation
 # Spring Data JPA
 # Spring Framework
 # Spring Boot
-# Spring Batch
-# kotlin
 # exposed
 # keycloak
 # Junit5
