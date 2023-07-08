@@ -46,3 +46,5 @@ nav_order: 5
 - Checksum 체크섬
 - Trailer record 트레일러 레코드
 - Production(Prod) 프로덕션
+- Logic 로직
+- Shell 셸
