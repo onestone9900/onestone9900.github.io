@@ -48,3 +48,24 @@ nav_order: 5
 - Production(Prod) 프로덕션
 - Logic 로직
 - Shell 셸
+- Repository 리포지터리
+- Third party 서드 파티
+- Spring Framework 스프링 프레임워크
+- Spring Boot 스프링 부트
+- Spring Data 스프링 데이터
+- Spring Cloud 스프링 클라우드
+- Spring Security 스프링 시큐리티
+- Spring Session 스프링 세션
+- Spring Integration 스프링 인테그레이션
+- Spring Batch 스프링 배치
+- Micrometer 마이크로미터
+- Spring AMQP 스프링 AMQP
+- Jakarta EE 자카르타 EE
+- Hibernate 하이버네이트
+- Attributes 애트리뷰트
+- Infrastructure 인프라스트럭처
+- Annotation 어노테이션
+- Embedded database 임베디드 데이터베이스
+- In-memory 인-메모리
+- Release 릴리스
+- Batch tracing 배치 트레이싱
