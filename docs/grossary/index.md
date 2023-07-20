@@ -29,7 +29,6 @@ nav_order: 5
 - Archive Classifier 압축파일 구분자
 - Classpath 클래스패스
 - Closure 클로저
-- Parameter 파라미터
 - Contents 콘텐츠
 - Docker 도커
 - Daemon 데몬
@@ -70,3 +69,12 @@ nav_order: 5
 - Release 릴리스
 - Batch tracing 배치 트레이싱
 - Persistence 영속성
+- Command 커맨드
+- Tutorial 튜토리얼
+- Custom 커스텀
+- Type 타입
+- Argument 아규먼트
+- Parameter 파라미터
+- Report 리포트
+- Level 레벨
+- syntax 문법
