@@ -69,3 +69,4 @@ nav_order: 5
 - In-memory 인-메모리
 - Release 릴리스
 - Batch tracing 배치 트레이싱
+- Persistence 영속성
