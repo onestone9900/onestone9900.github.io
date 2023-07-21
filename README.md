@@ -1,20 +1,36 @@
-# Spring Boot Gradle Plugin Reference
+# Spring Boot
+- 2.7.1
+- 3.1.1
+## Spring Boot Gradle Plugin Reference
+## Dependency Management Plugin
+## Spring Boot Actuator Web API Documentation
 # Spring Batch
-    - 진행중
+    - 5.0.2
+        - 진행중
+    - 4.3.8
 # Kotlin
 - Tools
     - Build tools
-        - Gradle
+        - `Gradle`
             - 진행중
-    - Compiler and plugins
-        - Compiler plugins
-        - Kotlin Symbol Processing API
-# Dependency Management Plugin
-# Gradle
-# Spring Boot Actuator Web API Documentation
-# Spring Data JPA
+- Compiler and plugins 
+    - Compiler plugins 
+        - `kapt`
+    - `Kotlin Symbol Processing API`
+- Official libraries
+    - `Coroutines (kotlinx.coroutines)`
 # Spring Framework
-# Spring Boot
+    - 6.0.11
+    - 5.3.29
+# Gradle
+# Spring Data JPA
+# Spring Data JDBC
+# Spring Data JDBC Extensions
+# Spring Security
+# jakarta EE
+    - Persistence(https://eclipse-ee4j.github.io/jakartaee-tutorial/#persistence)
+# querydsl
+    - https://github.com/querydsl/querydsl.github.io
 # exposed
 # keycloak
 # Junit5
