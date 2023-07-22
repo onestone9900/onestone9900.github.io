@@ -25,6 +25,7 @@ nav_order: 5
 - Reference 레퍼런스
 - Documentation 문서
 - Section 섹션
+- Chapter 챕터
 - Task 태스크
 - Archive Classifier 압축파일 구분자
 - Classpath 클래스패스
