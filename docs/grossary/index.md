@@ -24,8 +24,8 @@ nav_order: 5
 - Third Party 서드 파티
 - Reference 레퍼런스
 - Documentation 문서
-- Section 섹션
-- Chapter 챕터
+- Chapter 장
+- Section 절
 - Task 태스크
 - Archive Classifier 압축파일 구분자
 - Classpath 클래스패스
@@ -79,3 +79,5 @@ nav_order: 5
 - Report 리포트
 - Level 레벨
 - syntax 문법
+- Parent 상위
+- child 하위
