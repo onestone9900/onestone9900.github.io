@@ -81,3 +81,5 @@ nav_order: 5
 - syntax 문법
 - Parent 상위
 - child 하위
+- subclass 하위 클래스
+- validator 유효성 검사
