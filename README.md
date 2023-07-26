@@ -1,9 +1,12 @@
 # Spring Boot
 - 2.7.1
+## - Spring Boot Gradle Plugin Reference (완료)
+## - Dependency Management Plugin
+## - Spring Boot Actuator Web API Documentation
 - 3.1.1
-## Spring Boot Gradle Plugin Reference
-## Dependency Management Plugin
-## Spring Boot Actuator Web API Documentation
+## - Spring Boot Gradle Plugin Reference
+## - Dependency Management Plugin
+## - Spring Boot Actuator Web API Documentation
 # Spring Batch
     - 5.0.2
         - 진행중
@@ -29,6 +32,8 @@
 # Spring Security
 # jakarta EE
     - Persistence(https://eclipse-ee4j.github.io/jakartaee-tutorial/#persistence)
+# Java EE 7 (라이센스 정책으로 비공개)
+    - Persistence(https://docs.oracle.com/javaee/7/tutorial/index.html)
 # querydsl
     - https://github.com/querydsl/querydsl.github.io
 # exposed
