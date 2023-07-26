@@ -83,3 +83,4 @@ nav_order: 5
 - child 하위
 - subclass 하위 클래스
 - validator 유효성 검사
+- component 컴포넌트
