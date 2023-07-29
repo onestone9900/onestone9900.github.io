@@ -9,7 +9,6 @@ nav_order: 5
 3. 코드와 코드예시 사이에는 줄 바꿈을 넣지 않는다.
 4. 코드 예시와 다음 코드 예시 사이 줄 바꿈을 넣지 않는다.
 
-- 플러그인 명칭은 영문 그대로 표기한다.
 - Spring Boot 스프링 부트
 - Gradle 그레이들
 - Plugin 플러그인
@@ -26,8 +25,13 @@ nav_order: 5
 - Documentation 문서
 - Chapter 장
 - Section 절
+- Instruction 지침서
+- Tutorial 자습서
 - Topic 주제
 - Task 태스크
+- Block 블록
+- Kotlin extention 코틀린 익스텐션
+- Java extention 자바 익스텐션
 - Archive Classifier 압축파일 구분자
 - Classpath 클래스패스
 - Closure 클로저
