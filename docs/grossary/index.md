@@ -26,6 +26,7 @@ nav_order: 5
 - Documentation 문서
 - Chapter 장
 - Section 절
+- Topic 주제
 - Task 태스크
 - Archive Classifier 압축파일 구분자
 - Classpath 클래스패스
@@ -78,9 +79,10 @@ nav_order: 5
 - Parameter 파라미터
 - Report 리포트
 - Level 레벨
-- syntax 문법
+- Syntax 문법
 - Parent 상위
-- child 하위
-- subclass 하위 클래스
-- validator 유효성 검사
-- component 컴포넌트
+- Child 하위
+- Subclass 하위 클래스
+- Validator 유효성 검사
+- Component 컴포넌트
+- Precise backup 정확한 백업
