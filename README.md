@@ -1,6 +1,6 @@
 # Spring Boot
 - 2.7.1
-## - Spring Boot Gradle Plugin Reference (완료)
+## - Spring Boot Gradle Plugin Reference **(완료)**
 ## - Dependency Management Plugin
 ## - Spring Boot Actuator Web API Documentation
 - 3.1.1
@@ -14,8 +14,7 @@
 # Kotlin
 - Tools
     - Build tools
-        - `Gradle`
-            - 진행중
+        - `Gradle` **(완료)**
 - Compiler and plugins 
     - Compiler plugins 
         - `kapt`
