@@ -76,6 +76,7 @@ nav_order: 5
 - Batch tracing 배치 트레이싱
 - Persistence 영속성
 - Command 커맨드
+- Command line 커맨드 라인
 - Tutorial 튜토리얼
 - Custom 커스텀
 - Type 타입
