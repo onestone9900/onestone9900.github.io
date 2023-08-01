@@ -91,3 +91,4 @@ nav_order: 5
 - Validator 유효성 검사
 - Component 컴포넌트
 - Precise backup 정확한 백업
+- Blocking 블로킹
