@@ -1,29 +1,31 @@
 # Spring Boot
-- 2.7.1
+- `3.1.1`
 ## - Spring Boot Gradle Plugin Reference **(완료)**
 ## - Dependency Management Plugin
 ## - Spring Boot Actuator Web API Documentation
-- 3.1.1
-## - Spring Boot Gradle Plugin Reference
-## - Dependency Management Plugin
-## - Spring Boot Actuator Web API Documentation
 # Spring Batch
-    - 5.0.2
+    - `5.0.2`
         - 진행중
-    - 4.3.8
 # Kotlin
+- Concepts
+    - `Asynchronous programming techniques`
+    - `Coroutines`
+    - `Annotations`
+- Platforms
+    - `JVM`
 - Tools
     - Build tools
         - `Gradle` **(완료)**
 - Compiler and plugins 
-    - Compiler plugins 
+    - Compiler plugins
         - `kapt`
     - `Kotlin Symbol Processing API`
 - Official libraries
     - `Coroutines (kotlinx.coroutines)`
 # Spring Framework
     - 6.0.11
-    - 5.3.29
+        - Language Support
+            - `Kotlin`
 # Gradle
 # Spring Data JPA
 # Spring Data JDBC
