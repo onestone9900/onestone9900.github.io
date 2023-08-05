@@ -29,7 +29,8 @@
 # Gradle
 # Spring Data JPA
 # Spring Data JDBC
-# Spring Data JDBC Extensions
+# HikariCP
+    - https://github.com/brettwooldridge/HikariCP
 # Spring Security
 # jakarta EE
     - Persistence(https://eclipse-ee4j.github.io/jakartaee-tutorial/#persistence)
