@@ -94,3 +94,4 @@ nav_order: 5
 - Blocking 블로킹
 - Method signatures 메서드 시그니처
 - Job flow 플로우
+- Delegate 델리게이트
