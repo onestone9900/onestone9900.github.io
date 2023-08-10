@@ -95,3 +95,5 @@ nav_order: 5
 - Method signatures 메서드 시그니처
 - Job flow 플로우
 - Delegate 델리게이트
+- Late binding 레이트 바인딩
+- placeholder 자리 표시자
