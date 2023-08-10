@@ -27,6 +27,9 @@
         - Language Support
             - `Kotlin`
 # Gradle
+    - v7.6
+        - [Gradle reference](https://docs.gradle.org/7.6/userguide/what_is_gradle.html)
+        - [Gradle Release Notes](https://docs.gradle.org/7.6/release-notes.html?_gl=1*7vsjn3*_ga*MTA5NjA5NTMyOC4xNjgxMjIxMTIx*_ga_7W7NC6YNPT*MTY5MTY3NDg5NS4zNC4xLjE2OTE2NzQ5MDEuNTQuMC4w)
 # Spring Data JPA
 # Spring Data JDBC
 # HikariCP
