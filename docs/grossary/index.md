@@ -78,7 +78,7 @@ nav_order: 5
 - Command 커맨드
 - Command line 커맨드 라인
 - Tutorial 튜토리얼
-- Custom 커스텀
+- Custom 커스텀(사용자 지정)
 - Type 타입
 - Argument 아규먼트
 - Parameter 파라미터
@@ -93,7 +93,15 @@ nav_order: 5
 - Precise backup 정확한 백업
 - Blocking 블로킹
 - Method signatures 메서드 시그니처
-- Job flow 플로우
+- Job flow 작업 플로우
 - Delegate 델리게이트
 - Late binding 레이트 바인딩
 - placeholder 자리 표시자
+- format 포맷(형식)
+- skip 스킵(건너뛰기)
+- tracing 트레이싱(추적)
+- Job 잡(작업) Or 작업
+- Operation 작업
+- Guideline 가이드라인
+- building block 빌딩 블록(기본 구성이되는 무언가)
+- Contention 경합(자원 경쟁)
