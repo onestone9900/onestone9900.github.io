@@ -9,7 +9,6 @@ nav_order: 5
 3. 코드와 코드예시 사이에는 줄 바꿈을 넣지 않는다.
 4. 코드 예시와 다음 코드 예시 사이 줄 바꿈을 넣지 않는다.
 
-- Spring Boot 스프링 부트
 - Gradle 그레이들
 - Plugin 플러그인
 - Archives 압축파일
@@ -42,7 +41,6 @@ nav_order: 5
 - Minikube 미니큐브
 - Podman 파드맨
 - Private 프라이빗
-- Spring Batch 스프링 배치
 - Javadoc 자바독
 - Elvis 엘비스
 - Actuator 액츄에이터
@@ -51,9 +49,9 @@ nav_order: 5
 - Checksum 체크섬
 - Trailer record 트레일러 레코드
 - Production(Prod) 프로덕션
-- Logic 로직
+- Logic 로직(논리)
 - Shell 셸
-- Repository 리포지터리
+- Repository 리포지터리(저장소)
 - Third party 서드 파티
 - Spring Framework 스프링 프레임워크
 - Spring Boot 스프링 부트
@@ -83,18 +81,18 @@ nav_order: 5
 - Argument 아규먼트
 - Parameter 파라미터
 - Report 리포트
-- Level 레벨
+- Level 레벨(수준)
 - Syntax 문법
-- Parent 상위
-- Child 하위
-- Subclass 하위 클래스
+- Parent 상위(부모)
+- Child 하위(자녀)
+- Subclass 하위 클래스(서브 클래스)
 - Validator 유효성 검사
 - Component 컴포넌트
 - Precise backup 정확한 백업
 - Blocking 블로킹
 - Method signatures 메서드 시그니처
 - Job flow 작업 플로우
-- Delegate 델리게이트
+- Delegate 델리게이트(대리자)
 - Late binding 레이트 바인딩
 - placeholder 자리 표시자
 - format 포맷(형식)
@@ -105,3 +103,8 @@ nav_order: 5
 - Guideline 가이드라인
 - building block 빌딩 블록(기본 구성이되는 무언가)
 - Contention 경합(자원 경쟁)
+- note 노트
+- override 오버라이드(재정의)
+- Deprecation 디프리케이트(사용 중단)
+- Enum 이넘(열거형)
+- String 스트링(문자열)
