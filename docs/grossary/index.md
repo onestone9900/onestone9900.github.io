@@ -112,4 +112,6 @@ nav_order: 5
 - Throttle 스로틀
 - Failover 페일오버(장애복구)
 - Resilience 레질리언스(복원)
-- fabric 패브릭(구조물, 독립 모듈)
+- Fabric 패브릭(구조물, 독립 모듈)
+- Autowired 오토와이어드(자동 연결)
+- Isolation level 아이솔레이션 레벨(격리 수준)
