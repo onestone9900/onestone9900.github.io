@@ -109,3 +109,7 @@ nav_order: 5
 - Enum 이넘(열거형)
 - String 스트링(문자열)
 - Thick client, fat client 씩 클라이언트, 팻 클라이언트(씩 클라이언트는 데이터를 처리, 저장 및 관리할 수 있을 뿐만 아니라 독립적으로 다른 작업을 수행할 수 있기 때문에 서버 응용 프로그램에 의존하지 않는다)
+- Throttle 스로틀
+- Failover 페일오버(장애복구)
+- Resilience 레질리언스(복원)
+- fabric 패브릭(구조물, 독립 모듈)
