@@ -115,4 +115,4 @@ nav_order: 5
 - Fabric 패브릭(구조물, 독립 모듈)
 - Autowired 오토와이어드(자동 연결)
 - Isolation level 아이솔레이션 레벨(격리 수준)
-- Enum(enumeration)
+- Enum(enumeration) 이넘(이뉴머레이션: 열거형)
