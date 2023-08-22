@@ -116,3 +116,5 @@ nav_order: 5
 - Autowired 오토와이어드(자동 연결)
 - Isolation level 아이솔레이션 레벨(격리 수준)
 - Enum(enumeration) 이넘(이뉴머레이션: 열거형)
+- Unit Test 단위 테스트
+- End to end Test 종단 간 테스트
