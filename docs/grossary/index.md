@@ -8,6 +8,7 @@ nav_order: 5
 2. 제목과 내용 이후 줄 바꿈을 2번 넣는다.
 3. 코드와 코드예시 사이에는 줄 바꿈을 넣지 않는다.
 4. 코드 예시와 다음 코드 예시 사이 줄 바꿈을 넣지 않는다.
+5. example 코드는 예제, 상황은 예시
 
 - Gradle 그레이들
 - Plugin 플러그인
@@ -118,3 +119,7 @@ nav_order: 5
 - Enum(enumeration) 이넘(이뉴머레이션: 열거형)
 - Unit Test 단위 테스트
 - End to end Test 종단 간 테스트
+- Footer 바닥글
+- Checksum 체크섬(파일의 마지막줄에 추가되는 전체 데이터 검사의 한 형태로, 전체 레코드의 갯수 등이 표시됨)
+- vendor 공급업체(벤더)
+- SQL statement SQL 문
