@@ -123,3 +123,5 @@ nav_order: 5
 - Checksum 체크섬(파일의 마지막줄에 추가되는 전체 데이터 검사의 한 형태로, 전체 레코드의 갯수 등이 표시됨)
 - vendor 공급업체(벤더)
 - SQL statement SQL 문
+- Metrics 메트릭(측정항목)
+- tracing 트래이싱(추적)
