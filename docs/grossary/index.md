@@ -124,4 +124,4 @@ nav_order: 5
 - vendor 공급업체(벤더)
 - SQL statement SQL 문
 - Metrics 메트릭(측정항목)
-- tracing 트래이싱(추적)
+- tracing 트레이싱(추적)
