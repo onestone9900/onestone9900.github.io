@@ -3,9 +3,8 @@
 ## - Spring Boot Gradle Plugin Reference **(완료)**
 ## - Dependency Management Plugin
 ## - Spring Boot Actuator Web API Documentation
-# Spring Batch
+# Spring Batch **(완료)**
     - `5.0.2`
-        - 진행중
 # Kotlin
 - Concepts
     - `Asynchronous programming techniques`
@@ -24,8 +23,6 @@
     - `Coroutines (kotlinx.coroutines)`
 # Spring Framework
     - 6.0.11
-        - Language Support
-            - `Kotlin`
 # Gradle
     - v7.6
         - [Gradle reference](https://docs.gradle.org/7.6/userguide/what_is_gradle.html)
@@ -46,6 +43,12 @@
 # Junit5
 # mockk
 # argoCD
+# gRPC
+    - https://grpc.io/about/
+# Netty
+    - v4.x
+        - https://netty.io/wiki/new-and-noteworthy-in-4.1.html
+        - https://netty.io/wiki/user-guide-for-4.x.html
 # docker
 # locust
     - https://docs.locust.io/en/stable/
