@@ -125,3 +125,4 @@ nav_order: 5
 - SQL statement SQL 문
 - Metrics 메트릭(측정항목)
 - tracing 트레이싱(추적)
+- idempotent 멱등(연산을 여러 번 적용하더라도 결과가 달라지지 않는 성질)
