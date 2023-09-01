@@ -22,6 +22,7 @@ nav_order: 5
 - Maven 메이븐
 - Third Party 서드 파티
 - Reference 레퍼런스
+- Instruction 지침서
 - Documentation 문서
 - Chapter 장
 - Section 절
@@ -126,3 +127,4 @@ nav_order: 5
 - Metrics 메트릭(측정항목)
 - tracing 트레이싱(추적)
 - idempotent 멱등(연산을 여러 번 적용하더라도 결과가 달라지지 않는 성질)
+- Bootstrap 부트스트랩(시작 전 알아서 진행되는 일련의 과정)
