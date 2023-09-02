@@ -1,10 +1,12 @@
-# Spring Boot
-- `3.1.1`
+# Spring Boot 3.1.1
 ## - Spring Boot Gradle Plugin Reference **(완료)**
 ## - Dependency Management Plugin
 ## - Spring Boot Actuator Web API Documentation
-# Spring Batch **(완료)**
-    - `5.0.2`
+# Spring Batch 5.0.2 **(완료)**
+# Spring Data JPA
+# Spring Data JDBC
+# Spring for Apache Kafka
+# Spring Security
 # Kotlin
 - Concepts
     - `Asynchronous programming techniques`
@@ -27,11 +29,8 @@
     - v7.6
         - [Gradle reference](https://docs.gradle.org/7.6/userguide/what_is_gradle.html)
         - [Gradle Release Notes](https://docs.gradle.org/7.6/release-notes.html?_gl=1*7vsjn3*_ga*MTA5NjA5NTMyOC4xNjgxMjIxMTIx*_ga_7W7NC6YNPT*MTY5MTY3NDg5NS4zNC4xLjE2OTE2NzQ5MDEuNTQuMC4w)
-# Spring Data JPA
-# Spring Data JDBC
 # HikariCP
     - https://github.com/brettwooldridge/HikariCP
-# Spring Security
 # jakarta EE
     - Persistence(https://eclipse-ee4j.github.io/jakartaee-tutorial/#persistence)
 # Java EE 7 (라이센스 정책으로 비공개)
@@ -43,6 +42,7 @@
 # Junit5
 # mockk
 # argoCD
+# Kafka
 # gRPC
     - https://grpc.io/about/
 # Netty
