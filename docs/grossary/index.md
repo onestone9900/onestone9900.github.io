@@ -129,3 +129,4 @@ nav_order: 5
 - idempotent 멱등(연산을 여러 번 적용하더라도 결과가 달라지지 않는 성질)
 - Bootstrap 부트스트랩(시작 전 알아서 진행되는 일련의 과정)
 - Injection 인젝션(주입)
+- credential 크레덴셜(자격 증명)
