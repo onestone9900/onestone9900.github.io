@@ -130,3 +130,5 @@ nav_order: 5
 - Bootstrap 부트스트랩(시작 전 알아서 진행되는 일련의 과정)
 - Injection 인젝션(주입)
 - credential 크레덴셜(자격 증명)
+- serialize 시리얼라이저(직렬화)
+- deserialize 디시리얼라이저(역직렬화)
