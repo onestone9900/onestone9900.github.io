@@ -132,3 +132,7 @@ nav_order: 5
 - credential 크레덴셜(자격 증명)
 - serialize 시리얼라이저(직렬화)
 - deserialize 디시리얼라이저(역직렬화)
+- metric 메트릭(측정항목)
+- helper 헬퍼(도우미)
+- auto-configure 오토컨피규어(자동환성)
+- auto-configuration 오토컨피규레이션(자동완성)
