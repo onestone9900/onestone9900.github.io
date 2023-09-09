@@ -138,3 +138,4 @@ nav_order: 5
 - auto-configure 자동완성(오토컨피규어)
 - auto-configuration 자동완성(오토컨피규레이션)
 - auditing 오디팅(감시)
+- Fault Tolerant 내결함성(시스템의 일부 구성 요소가 작동하지 않더라도 계속 작동할 수 있는 기능)
