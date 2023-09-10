@@ -10,6 +10,7 @@ nav_order: 5
 4. 코드 예제와 다음 코드 예제 사이 줄 바꿈을 넣지 않는다.
 5. example - 코드는 예제, 상황은 예시
 6. 제목은 한글 영문 병기한다. 한글(영문)
+7. 쿠버네티스 관련 내용은 ["쿠버네티스 문서 한글화 가이드"](https://kubernetes.io/ko/docs/contribute/localization_ko/)를 따른다.
 
 - Gradle 그레이들
 - Plugin 플러그인
@@ -108,7 +109,7 @@ nav_order: 5
 - Contention 경합(자원 경쟁)
 - note 노트
 - override 오버라이드(재정의)
-- Deprecation 디프리케이트(사용 중단)
+- Deprecation 디프리케이션(사용 중단)
 - Enum 이넘(열거형)
 - String 스트링(문자열)
 - Thick client, fat client 씩 클라이언트, 팻 클라이언트(씩 클라이언트는 데이터를 처리, 저장 및 관리할 수 있을 뿐만 아니라 독립적으로 다른 작업을 수행할 수 있기 때문에 서버 응용 프로그램에 의존하지 않는다)
