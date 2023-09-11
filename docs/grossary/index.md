@@ -11,6 +11,7 @@ nav_order: 5
 5. example - 코드는 예제, 상황은 예시
 6. 제목은 한글 영문 병기한다. 한글(영문)
 7. 쿠버네티스 관련 내용은 ["쿠버네티스 문서 한글화 가이드"](https://kubernetes.io/ko/docs/contribute/localization_ko/)를 따른다.
+8. :는 한글에서 사용하지 않으므로 .으로 대체한다.
 
 - Gradle 그레이들
 - Plugin 플러그인
