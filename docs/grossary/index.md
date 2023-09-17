@@ -81,7 +81,7 @@ nav_order: 5
 - Command 커맨드
 - Command line 커맨드 라인
 - Tutorial 튜토리얼
-- Custom 커스텀(사용자 지정)
+- Custom 커스텀(사용자 지정, 사용자 정의)
 - Type 타입
 - Argument 아규먼트
 - Parameter 파라미터
@@ -141,3 +141,5 @@ nav_order: 5
 - auto-configuration 자동완성(오토컨피규레이션)
 - auditing 오디팅(감시)
 - Fault Tolerant 내결함성(시스템의 일부 구성 요소가 작동하지 않더라도 계속 작동할 수 있는 기능)
+- Handler, Handling 핸들러(처리기), 핸들링(처리)
+- Transports 통신방식
