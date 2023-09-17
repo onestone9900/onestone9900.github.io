@@ -137,8 +137,9 @@ nav_order: 5
 - deserialize 디시리얼라이저(역직렬화)
 - metric 메트릭(측정항목)
 - helper 헬퍼(도우미)
-- auto-configure 자동완성(오토컨피규어)
-- auto-configuration 자동완성(오토컨피규레이션)
+- Configure 구성, 설정
+- auto-configure 자동구성(오토컨피규어)
+- auto-configuration 자동구성(오토컨피규레이션)
 - auditing 오디팅(감시)
 - Fault Tolerant 내결함성(시스템의 일부 구성 요소가 작동하지 않더라도 계속 작동할 수 있는 기능)
 - Handler, Handling 핸들러(처리기), 핸들링(처리)
