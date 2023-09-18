@@ -144,3 +144,7 @@ nav_order: 5
 - Fault Tolerant 내결함성(시스템의 일부 구성 요소가 작동하지 않더라도 계속 작동할 수 있는 기능)
 - Handler, Handling 핸들러(처리기), 핸들링(처리)
 - Transports 통신방식
+- fluent API 플루언트 API(메소드 체이닝에 기반한 객체 지향 API 설계 메소드)
+- type-safe 타입 세이프
+- Dialect 다이얼렉트(방언)
+- backs off 백 오프(데이터를 재전송하기 전에, 컴퓨터가 일정시간을 대기하는 시간)
