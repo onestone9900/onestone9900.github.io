@@ -148,3 +148,4 @@ nav_order: 6
 - type-safe 타입 세이프
 - Dialect 다이얼렉트(방언)
 - backs off 백 오프(데이터를 재전송하기 전에, 컴퓨터가 일정시간을 대기하는 시간)
+- Terminology 용어
