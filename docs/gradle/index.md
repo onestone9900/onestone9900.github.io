@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 그레이들(Gradle)
+title: Gradle
 nav_order: 5
 has_children: true
 ---
