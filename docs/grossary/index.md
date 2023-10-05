@@ -150,3 +150,4 @@ nav_order: 6
 - backs off 백 오프(데이터를 재전송하기 전에, 컴퓨터가 일정시간을 대기하는 시간)
 - Terminology 용어
 - publish 게시하다
+- eager 즉시
