@@ -151,3 +151,5 @@ nav_order: 6
 - Terminology 용어
 - publish 게시하다
 - eager 즉시
+- ad-hoc 애드훅(임시)
+- Interoperability 상호 호환성
