@@ -155,3 +155,4 @@ nav_order: 6
 - Interoperability 상호 호환성
 - side effects 부수효과
 - Idempotent 멱등(첫 번째 수행을 한 뒤 여러 차례 적용해도 결과를 변경시키지 않는 작업)
+- subproject 하위 프로젝트
