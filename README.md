@@ -6,7 +6,6 @@
 # Spring Data JPA
 # Spring Data JDBC
 # Spring for Apache Kafka
-# Spring Security
 # Kotlin
 - Concepts
     - `Asynchronous programming techniques`
@@ -33,8 +32,6 @@
     - https://github.com/brettwooldridge/HikariCP
 # jakarta EE
     - Persistence(https://eclipse-ee4j.github.io/jakartaee-tutorial/#persistence)
-# Java EE 7 (라이센스 정책으로 비공개)
-    - Persistence(https://docs.oracle.com/javaee/7/tutorial/index.html)
 # querydsl
     - https://github.com/querydsl/querydsl.github.io
 # exposed
