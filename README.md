@@ -5,13 +5,14 @@
 # Spring Batch 5.0.2 **(완료)**
 # Spring Data JPA
 # Spring Data JDBC
+# HikariCP
+    - https://github.com/brettwooldridge/HikariCP
+# Spring for Apache Kafka
+# Spring Data Redis
+- https://docs.spring.io/spring-data/redis/reference/index.html
 # Kotlin
 - Concepts
-    - `Asynchronous programming techniques`
-    - `Coroutines`
     - `Annotations`
-- Platforms
-    - `JVM`
 - Tools
     - Build tools
         - `Gradle` **(완료)**
@@ -19,24 +20,19 @@
     - Compiler plugins
         - `kapt`
     - `Kotlin Symbol Processing API`
-- Official libraries
-    - `Coroutines (kotlinx.coroutines)`
 # Gradle
     - v7.6
         - [Gradle reference](https://docs.gradle.org/7.6/userguide/what_is_gradle.html)
         - [Gradle Release Notes](https://docs.gradle.org/7.6/release-notes.html?_gl=1*7vsjn3*_ga*MTA5NjA5NTMyOC4xNjgxMjIxMTIx*_ga_7W7NC6YNPT*MTY5MTY3NDg5NS4zNC4xLjE2OTE2NzQ5MDEuNTQuMC4w)
-# HikariCP
-    - https://github.com/brettwooldridge/HikariCP
 # jakarta EE
     - Persistence(https://eclipse-ee4j.github.io/jakartaee-tutorial/#persistence)
 # querydsl
     - https://github.com/querydsl/querydsl.github.io
 # exposed
-# keycloak
+    - https://github.com/JetBrains/Exposed/wiki
 # Junit5
 # mockk
-# Spring for Apache Kafka
-# Kafka
+    - https://mockk.io/
 # gRPC
     - https://grpc.io/about/
 # Netty
