@@ -160,3 +160,4 @@ nav_order: 6
 - health 상태
 - Indicator 표시기
 - metrics 메트릭 (측정항목)
+- relaxed binding 완화된 바인딩
