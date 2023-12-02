@@ -162,4 +162,4 @@ nav_order: 6
 - metrics 메트릭 (측정항목)
 - relaxed binding 완화된 바인딩
 - depends transitively on 전의적 의존(의존성 라이브러리를 선언하지 않아도 암묵적으로 가져옴)
-- native
+- native 네이티브
