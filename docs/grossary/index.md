@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 용어사전 및 규칙
-nav_order: 6
+nav_order: 999
 ---
 
 1. 제목, 부제목과 내용 사이 줄 바꿈을 넣지 않는다.
