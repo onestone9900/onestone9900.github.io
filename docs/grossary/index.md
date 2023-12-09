@@ -36,7 +36,7 @@ nav_order: 999
 - Block 블록
 - Kotlin extention 코틀린 익스텐션
 - Java extention 자바 익스텐션
-- Archive Classifier 압축파일 구분자
+- Archive Classifier 압축파일 분류자
 - Classpath 클래스패스
 - Closure 클로저
 - Contents 콘텐츠
