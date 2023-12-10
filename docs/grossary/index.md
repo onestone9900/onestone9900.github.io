@@ -164,3 +164,4 @@ nav_order: 999
 - depends transitively on 전의적 의존(의존성 라이브러리를 선언하지 않아도 암묵적으로 가져옴)
 - native 네이티브
 - standalone 독립형
+- label	레이블
