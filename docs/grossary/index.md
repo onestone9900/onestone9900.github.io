@@ -165,3 +165,5 @@ nav_order: 999
 - native 네이티브
 - standalone 독립형
 - label	레이블
+- Producer 프로듀서(생산자)
+- Consumer 컨슈머(소비자)
