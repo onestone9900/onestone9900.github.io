@@ -168,3 +168,4 @@ nav_order: 999
 - Producer 프로듀서(생산자)
 - Consumer 컨슈머(소비자)
 - timeout 제한시간
+- concurrency 동시성
