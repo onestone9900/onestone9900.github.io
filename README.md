@@ -39,3 +39,8 @@
     - v4.x
         - https://netty.io/wiki/new-and-noteworthy-in-4.1.html
         - https://netty.io/wiki/user-guide-for-4.x.html
+# ApachePOI
+    - Excel (HSSF/XSSF) 5.2.5
+        - https://poi.apache.org/components/spreadsheet/index.html
+# ApachePDFBox
+    - Apache PDFBox 3.0.1
