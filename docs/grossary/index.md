@@ -169,3 +169,4 @@ nav_order: 999
 - Consumer 컨슈머(소비자)
 - timeout 제한시간
 - concurrency 동시성
+- indexed 인덱스(색인)
